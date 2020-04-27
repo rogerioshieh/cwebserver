@@ -12,5 +12,5 @@ gcc -o main main.c
 
 ### Test the server
 ```bash
-curl -X GET 127.0.0.1:8080
+curl -X GET 127.0.0.1:8080/index.html
 ```
