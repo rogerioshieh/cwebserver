@@ -7,7 +7,7 @@
 #include "modules/utilities/utils.h"
 #include "controller/cwes_controller.h"
 
-#define PORT 8080
+#define PORT 8000
 
 void signal_handler(int sig);
 
